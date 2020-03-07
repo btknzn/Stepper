@@ -4,7 +4,7 @@ Mekatronical Insturmatation
 Project-1
 You can watch the video
 Video:https://www.youtube.com/watch?v=hPZ8onPFUYQ&feature=youtu.be
- 
+![alt text](https://github.com/btknzn/Stepper/blob/master/dc957a87-1133-4099-a53b-6350d431256e.jpg)
 Names	
 Batu Kaan Özen
 Hande Yıldırım
